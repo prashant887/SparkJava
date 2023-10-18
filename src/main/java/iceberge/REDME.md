@@ -1,0 +1,1 @@
+pl@plAMD6R ~ % spark-3.3.3-bin-hadoop3-scala2.13/bin/spark-submit  --packages org.apache.iceberg:iceberg-spark-runtime-3.3_2.13:1.3.1 --master local /Users/pl/PycharmProjects/EUC-BI/SparkCodes/iceBergeHadoopTimeTravel.py 
